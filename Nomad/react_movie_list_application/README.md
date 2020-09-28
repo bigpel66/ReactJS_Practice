@@ -1,6 +1,6 @@
 <h1 align="center">react_movie_list_application</h1>
 <div align="center">
-    The project to learn the overall of React.js
+    The Project to Learn the Overall of React.js
 </div>
 
 ## Demo
